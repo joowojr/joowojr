@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=ae9c8f&height=240&text=Joowojr's%20Github&animation=&fontColor=fbf0e9&fontSize=60"
-    alt="Joowojr's Github"
+    alt="JooWonSeo's Github"
   />
 </div>
 
