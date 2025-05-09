@@ -57,12 +57,12 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
   <br />
   <div align="center">
-    <a href="https://velog.io/@joowojr">
+<!--     <a href="https://velog.io/@joowojr">
       <img
         src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@joowojr"
         alt="Velog"
       />
-    </a>
+    </a> -->
     <a href="mailto:joowojr@gmail.com">
       <img
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joowojr@gmail.com"
